@@ -1,2 +1,16 @@
-# dsa-with-c-cpp
-My DSA learning journey in C and C++, including notes, implementations, and practice problems.
+# DSA in C & C++
+
+Learning Data Structures and Algorithms using C and C++.
+
+## Topics
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Hashing
+- Recursion
+
+## Source
+Abdul Bari DSA Course
